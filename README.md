@@ -12,7 +12,7 @@ For example, partitioning a protein-protein interaction network into clusters ca
 modular view of the network, with different groups of nodes performing different functions
 within the cell.
 
-As part of the project, we implemented various algebraic and network division algorithms
+As part of the project, we implemented various algebric and network division algorithms
 and different data structures such as sparse matrices for storing the data and modularity matrices
 for executing the division algorithms and the different algebric operations. 
 
